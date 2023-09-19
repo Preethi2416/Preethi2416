@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preethi2416
 - 👀 I’m interested in learning different programming launguages
-- 🌱 I’m currently learning B.E computer science and engineering in Chennai Institute of Technology
+- 🌱 I’m currently learning B.E computer science and engineering in Chennai Institute of Technology and Applied Research
   
 
 <!---
